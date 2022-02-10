@@ -1,0 +1,4 @@
+name  = moin malik 
+room number  = =2019 
+status  = =student 
+
